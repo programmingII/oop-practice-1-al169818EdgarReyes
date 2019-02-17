@@ -1,4 +1,4 @@
-//Edgar Omar Reyes Oivas 12:39
+//Nombre: Edgar Omar Reyes Oivas 			Dia: 02/05/19			Hora: 12:39
 
 class Excercise2{ //Declaration of a class named Excercise2
 	
