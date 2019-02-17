@@ -1,4 +1,4 @@
-//Edgar Omar Reyes Olivas 13:17
+//Nombre: Edgar Omar Reyes Olivas Fecha: 02/05/19	Hora: 13:17
 
 import java.util.Scanner; //On this line I include the external class Scanner.
 
