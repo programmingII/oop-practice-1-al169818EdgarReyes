@@ -1,0 +1,26 @@
+// Nombre: Edgar Omar Reyes Olivas		Fecha: 02/27/19		Hora: 09:37
+
+class Excercise68{	//Declaration of a class named Excercise68
+
+	public static void main(String[] args){ /*Declaration of the main function. Public it's an access specifier that means that you can 
+
+											*call this method from outside the class (publically). Static it's an access modifier that 
+
+											*creates space in memory automatically when java program is load. Void it's a return type.
+
+											*Main it's the name of the method. String[] args are arguments of type String that your Java 
+
+											*application accepts when you run it.
+							
+											*/
+		
+	String str = "Programming 2.0";
+	String subString = str.substring(str.length()- 3);
+	String newStr = subString + subString + subString + subString;
+	
+	System.out.println(newStr);
+	
+	
+	
+		}
+}
